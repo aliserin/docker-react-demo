@@ -9,6 +9,9 @@ function App() {
         <p>
           Ali Baharı Seviyor!!!
         </p>
+        <h1>
+          Bahar annesini çooook seviyor!!!
+        </h1>
         <a
           className="App-link"
           href="https://reactjs.org"
